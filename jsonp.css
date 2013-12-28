@@ -2,20 +2,8 @@
 body {
 /*  background-color: #FFF;*/
   background-color: rgb(245, 245, 245);
-  
-/*
-  snow        rgb(255, 250, 250)
-  whitesmoke  rgb(245, 245, 245)
-  lightyellow rgb(255, 255, 224)
-  cornsilk    rgb(255, 248, 220)
-  
-  floralwhite rgb(255, 250, 240)
-  linen       rgb(250, 240, 230)
-  
-  
-*/
-
   color: #3E3F39;
+  color: ;
 
   font-family: Helvetica, sans-serif;
   font-size: 106%;
