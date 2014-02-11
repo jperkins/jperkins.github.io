@@ -64,12 +64,12 @@ a:hover, a:active {
 @media (max-width:480px) {
   body {
     /* properties that only apply to phones */
-	font-size: 113%;
+	font-size: 120%;
   } 
 
 	#content {
 		margin: 0 auto;
-		width: 22em;
+		width: 25em;
 	}
 }
 
