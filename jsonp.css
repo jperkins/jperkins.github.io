@@ -62,15 +62,30 @@ a:hover, a:active {
 
 /* small displays */
 @media (max-width:480px) {
-  body {
-    /* properties that only apply to phones */
-	font-size: 120%;
-  } 
+	body {
+		/* properties that only apply to phones */
+		font-size: 110%;
+	}
+
+	h1 {
+		margin: 0;
+
+		padding: 2.5em;
+		padding-bottom: 1em;
+
+		font-family: "droid-sans-mono", monaco, menlo, monospace;
+		font-size: 1.75em;
+		font-style: normal;
+		font-weight: normal;
+
+		text-align: center;
+		text-transform: uppercase;
+	}
 
 	#content {
 		margin: 0 auto;
 		padding: 0 1em;
-		width: 25em;
+		width: 20em;
 	}
 }
 
