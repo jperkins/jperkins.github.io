@@ -64,7 +64,7 @@ a:hover, a:active {
 @media (max-width:480px) {
   body {
     /* properties that only apply to phones */
-
+	font-size: 113%;
   } 
 
 	#content {
