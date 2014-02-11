@@ -68,18 +68,7 @@ a:hover, a:active {
 	}
 
 	h1 {
-		margin: 0;
-
-		padding: 2.5em;
-		padding-bottom: 1em;
-
-		font-family: "droid-sans-mono", monaco, menlo, monospace;
-		font-size: 1.75em;
-		font-style: normal;
-		font-weight: normal;
-
-		text-align: center;
-		text-transform: uppercase;
+		font-size: 1.25em;
 	}
 
 	#content {
